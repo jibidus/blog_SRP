@@ -1,8 +1,8 @@
-package fr.sogilis.blog.article;
+package fr.sogilis.blog.article.srp;
 
 import java.util.Collection;
 
-public class SRP {
+public class SplitAll {
 
     private class Article {
         private double price;
